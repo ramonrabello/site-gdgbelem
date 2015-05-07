@@ -6,4 +6,4 @@ utilizando o tema [Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes
 ## Changelog
 
 2015-05-07
-: Versão do site para o evento Google I/O Extended Belém.
+- Versão do site para o evento Google I/O Extended Belém.
