@@ -33,17 +33,30 @@
     {% include _author-bio.html %}
   </div>
   <div id="index">
-    <h3><a href="{{ site.url}}/posts/">Recent Posts</a></h3>
-    {% for post in site.posts limit:5 %}    
-    <article>
-      {% if post.link %}
-        <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h2>
-      {% else %}
-        <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-        <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
-      {% endif %}
-    </article>
-    {% endfor %}
+    <p style="text-align:justify;font-size:120%;text-indent:0;margin-bottom:2.5em;">
+      O Google I/O é a famosa convenção técnica do Google que acontece na
+      Califórnia, EUA, e é transmitida para mais de 140 países.  Desenvolvedores
+      e empreendedores de base tecnológica do mundo todo se reúnem para acompanhar
+      as transmissões em extensões locais do evento que são combinadas com atividades
+      colaterais de interesse específico, os <q>Google I/O Extended</q>.
+    </p>
+    <p style="text-align:justify;font-size:120%;text-indent:0;margin-bottom:2.5em;">
+      Neste ano, o evento Google I/O Extended ocorrerá também em Belém,
+      organizado pelo Grupo de Desenvolvedores Google local (<a href="https://plus.google.com/u/0/b/104454903082510408559/104454903082510408559/about">GDG Belém</a>)
+      em parceria com empresas da região e profissionais e entusiastas de tecnologia.
+      Além da transmissão da principal palestra do evento principal em
+      primeira-mão via Internet diretamente do local do evento, o Google I/O
+      Extended Belém contará com palestras exclusivas, discussões de assuntos
+      de interesse da comunidade, troca de experiências, networking e feedback
+      especializado com intuito do engrandecimento da comunidade local
+      empreendedora do estado.
+    </p>
+    <p style="text-align:justify;font-size:120%;text-indent:0;margin-bottom:2.5em;">
+      Convidamos você a prestigiar mais este evento fazer parte desta grande iniciativa!
+    </p>
+    <p>
+      Equipe GDG Belém.
+    </p>
   </div><!-- /#index -->
 </div><!-- /#main -->
 
