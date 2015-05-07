@@ -26,9 +26,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: GDG Belém
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "Grupo de Desenvolvedores Google de Belém."
   email: 
   disqus-shortname: 
   twitter: #username
