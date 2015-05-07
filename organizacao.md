@@ -4,7 +4,7 @@ title: Organização
 url: organizacao.html
 comments: false
 image:
-  feature: sample-image-1.jpg
+  feature: organizadores-evento.jpg
 ---
 
 O Google I/O Extended Belém 2015 acontecerá no dia **28 de maio** na
