@@ -15,6 +15,7 @@ O Google I/O Extended Belém 2015 tem o patrocínio de:
 - Google Brasil
 
 Além destes, são apoiadores deste evento:
+
 - UFPA
 - Ceamazon
 - Altos Eventos
