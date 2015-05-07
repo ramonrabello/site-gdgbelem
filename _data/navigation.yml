@@ -1,13 +1,13 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+- title: Programação
+  url: /programacao/
 
-- title: Sample Posts
-  url: /posts/
+- title: Local
+  url: /local/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Organização
+  url: /organizacao/
 
-- title: Made Mistakes
-  url: http://mademistakes.com
+- title: Patrocínio e Apoiadores
+  url: /patrocinio/
