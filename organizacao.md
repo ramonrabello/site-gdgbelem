@@ -14,4 +14,4 @@ Desenvolvedores Google de Belém.
 - Felipe Araújo
 - Marcelo Andrade
 - Ramon Rabello
-- Bryan Oliver
+- Bryan Ollivie
